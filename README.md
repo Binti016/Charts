@@ -18,7 +18,7 @@ Follow the steps below to get the project running locally.
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/Interactive-Dashboard.git
+git clone https://github.com/Binti016/Charts.git
 cd Interactive-Dashboard
 
 # Install dependencies
