@@ -22,9 +22,6 @@ git clone https://github.com/Binti016/Charts.git
 cd Interactive-Dashboard
 
 # Install dependencies
-npm install
-
-# If it doesn't work then run
 npm install --legacy-peer-deps
 
 # Run the development server
