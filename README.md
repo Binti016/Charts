@@ -16,8 +16,16 @@ A minimal dashboard built with **Next.js** and **Tailwind CSS** to display a **g
 
 Follow the steps below to get the project running locally.
 
-### 1. Clone the repository
-
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+# Clone the repo
+git clone https://github.com/your-username/Interactive-Dashboard.git
+cd Interactive-Dashboard
+
+# Install dependencies
+npm install
+
+# If it doesn't work then run
+npm install --legacy-peer-deps
+
+# Run the development server
+npm run dev
